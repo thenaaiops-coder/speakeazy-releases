@@ -1,0 +1,7 @@
+{
+  "version": "0.5.0",
+  "build": 21,
+  "url": "https://github.com/thenaaiops-coder/speakeazy-releases/releases/download/v0.5.0/Speakeazy-0.5.0.dmg",
+  "sha256": "e16af34fe9b81901ad39b90236518f0fdb866cc02b9fd7a46ecd7ab5c27c9311",
+  "notes": "- Updates from inside the app (Mac): Speakeazy checks for new versions and installs them with one click, then restarts. No more downloading and dragging, and no more \"Open Anyway\" after the first install\n- Permissions survive updates (Mac): releases are signed with one Speakeazy certificate, so Accessibility and Microphone stay allowed\n- Easier first install (Mac): the download has a \"Read me first\" note, and there's a public download page to share\n- Robot animation redone: every movement is a spring, eyes stretch with your voice, the head leans in, blinks ease, and moods blend into each other instead of cutting (Mac, Windows, iPhone)"
+}
