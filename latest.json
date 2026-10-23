@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1",
-  "build": 22,
-  "url": "https://github.com/thenaaiops-coder/speakeazy-releases/releases/download/v0.5.1/Speakeazy-0.5.1.dmg",
-  "sha256": "88f192f7872a68f1d761ce9b9c33dc5f9e451fa8b91f84fc6e32138e41c45218",
-  "notes": "- New app identifier (app.speakeazy.mac / app.speakeazy.ios). If you installed 0.5.0, allow Microphone and Accessibility once more after this update\n- Release script no longer stops on leftover build files"
+  "version": "0.5.2",
+  "build": 28,
+  "url": "https://github.com/thenaaiops-coder/speakeazy-releases/releases/download/v0.5.2/Speakeazy-0.5.2.dmg",
+  "sha256": "da3f82f0346df530e65b7b41947eedf095763eeea2f382b837a6de2ba3d89af1",
+  "notes": "- The robot above the listening pill is twice the size, on a soft dark glow, so its colours, eye movement and light sweep are visible on any wallpaper (Mac and Windows)\n- No duplicate Speakeazy left behind in Spotlight after a release build\n- The old working name is gone from the code, file names and project names; everything is called Speakeazy"
 }
