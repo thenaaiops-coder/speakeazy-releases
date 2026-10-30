@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
-  "build": 28,
-  "url": "https://github.com/thenaaiops-coder/speakeazy-releases/releases/download/v0.5.2/Speakeazy-0.5.2.dmg",
-  "sha256": "da3f82f0346df530e65b7b41947eedf095763eeea2f382b837a6de2ba3d89af1",
-  "notes": "- The robot above the listening pill is twice the size, on a soft dark glow, so its colours, eye movement and light sweep are visible on any wallpaper (Mac and Windows)\n- No duplicate Speakeazy left behind in Spotlight after a release build\n- The old working name is gone from the code, file names and project names; everything is called Speakeazy"
+  "version": "0.6.0",
+  "build": 41,
+  "url": "https://github.com/thenaaiops-coder/celesa-releases/releases/download/v0.6.0/Celesa-0.6.0.dmg",
+  "sha256": "606924137741519a60a1a855561d423daf75175cb8c3871e8d8f2d2643dc467d",
+  "notes": "- Speakeazy is now Celesa. New name, new logo (the chime C) and new app icon on Mac, Windows and iPhone. Named after the celesta, a keyboard that sounds like bells: Celesa is the keyboard with a voice\n- Updating from 0.5.x: the app installs itself as Celesa, moves the old copy to the Trash and keeps your settings, dictionary, snippets, history and downloaded models. Allow Microphone and Accessibility once more, because the app has a new identity (app.celesa.mac)\n- Downloads move to https://github.com/thenaaiops-coder/celesa-releases. The old download page points there\n- New listening animation, Trail: a fine glowing line in blue, violet, pink and orange that follows your voice, with fading echoes of the last half second. It sweeps colour while Celesa writes and ends with a check and \"Pasted\". Replaces the robot (Mac, Windows, iPhone)"
 }
